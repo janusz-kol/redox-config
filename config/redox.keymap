@@ -16,7 +16,7 @@
         to_qwerty {
             bindings = <&to 0>;
             key-positions = <63 61 59>;
-            layers = <4>;
+            layers = <1>;
         };
 
         to_colemak {
