@@ -81,11 +81,11 @@
             // | CRTL  | ALT | GUI | LOWER |     GUI     | LOWER | SPACE   | --- | DEL  |  0  |    RAISE  | LEFT | DOWN | UP  | RIGHT |
 
             bindings = <
-&trans   &trans     &trans     &trans     &trans     &trans                                       &trans           &trans    &trans     &trans    &trans       &trans
-&kp ESC  &kp EXCL   &kp AT     &kp HASH   &kp DLLR   &kp PRCNT  &trans                    &trans  &kp CARET        &kp AMPS  &kp ASTRK  &kp LPAR  &kp RPAR     &kp DEL
-&trans   &kp MINUS  &kp EQUAL  &kp LBKT   &kp RBKT   &kp BSLH   &trans                    &trans  &kp KP_MULTIPLY  &kp N4    &kp N5     &kp N6    &kp KP_PLUS  &kp KP_MINUS
-&trans   &kp ESC    &kp LGUI   &kp LG(C)  &kp LG(V)  &kp GRAVE  &trans  &trans    &trans  &trans  &kp KP_DIVIDE    &kp N1    &kp N2     &kp N3    &kp RET      &kp RET
-&trans   &trans     &trans     &trans     &trans                &trans  &trans    &trans  &kp N0                   &mo 3     &trans     &trans    &trans       &trans
+&trans       &trans     &trans     &trans     &trans     &trans                                       &trans           &trans    &trans     &trans    &trans       &trans
+&kp LA(TAB)  &kp EXCL   &kp AT     &kp HASH   &kp DLLR   &kp PRCNT  &trans                    &trans  &kp CARET        &kp AMPS  &kp ASTRK  &kp LPAR  &kp RPAR     &kp DEL
+&trans       &kp MINUS  &kp EQUAL  &kp LBKT   &kp RBKT   &kp BSLH   &trans                    &trans  &kp KP_MULTIPLY  &kp N4    &kp N5     &kp N6    &kp KP_PLUS  &kp KP_MINUS
+&trans       &kp ESC    &kp LGUI   &kp LG(C)  &kp LG(V)  &kp GRAVE  &trans  &trans    &trans  &trans  &kp KP_DIVIDE    &kp N1    &kp N2     &kp N3    &kp RET      &kp RET
+&trans       &trans     &trans     &trans     &trans                &trans  &trans    &trans  &kp N0                   &mo 3     &trans     &trans    &trans       &trans
             >;
         };
 
