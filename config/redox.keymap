@@ -35,6 +35,7 @@
 
             tapping-term-ms = <200>;
             flavor = "hold-preferred";
+            hold-while-undecided;
         };
 
         new_behavior: new_behavior {
