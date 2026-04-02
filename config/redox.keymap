@@ -31,7 +31,8 @@
             compatible = "zmk,behavior-hold-tap";
             label = "SPC_LOWER";
             #binding-cells = <2>;
-            bindings = <&mo LOWER>, <&kp SPACE>;
+            bindings = <&mo>, <&kp>;
+
             tapping-term-ms = <200>;
             flavor = "hold-preferred";
         };
@@ -66,7 +67,7 @@
 &kp TAB       &kp Q     &kp W     &kp F   &kp P     &kp B   &kp LPAR                                      &kp RPAR   &kp J   &kp L          &kp U      &kp Y     &kp SEMICOLON  &kp MINUS
 &kp ESCAPE    &kp A     &kp R     &kp S   &kp T     &kp G   &kp LBKT                                      &kp RBKT   &kp M   &kp N          &kp E      &kp I     &kp O          &kp SQT
 &kp LSHFT     &kp Z     &kp X     &kp C   &kp D     &kp V   &kp PG_UP           &kp PG_DN    &kp HOME     &kp END    &kp K   &kp H          &kp COMMA  &kp DOT   &kp FSLH       &mt RSHFT RET
-&kp LCTRL     &kp LALT  &kp LGUI  &mo 4   &kp LGUI          &spc_lower SPACE 2  &kp LCTRL    &lt 5 ENTER  &kp SPACE          &kp RIGHT_ALT  &kp LEFT   &kp DOWN  &kp UP         &kp RIGHT
+&kp LCTRL     &kp LALT  &kp LGUI  &mo 4   &kp LGUI          &spc_lower 2 SPACE  &kp LCTRL    &lt 5 ENTER  &kp SPACE          &kp RIGHT_ALT  &kp LEFT   &kp DOWN  &kp UP         &kp RIGHT
             >;
         };
 
