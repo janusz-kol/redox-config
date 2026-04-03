@@ -144,7 +144,7 @@
             display-name = "Raise Layer";
             bindings = <
 &trans   &trans     &trans    &trans    &trans    &trans                                       &trans    &trans     &trans     &trans        &trans     &trans
-&kp ESC  &kp N1     &kp N2    &kp N3    &kp N4    &kp N5     &trans                    &trans  &kp N6    &kp N7     &kp N8     &kp N9        &kp N0     &kp DEL
+&kp ESC  &kp EXCL   &kp AT    &kp HASH  &kp DLLR  &kp PRCNT  &trans                    &trans  &kp CARET &kp AMPS   &kp ASTRK  &kp LPAR      &kp RPAR   &kp DEL
 &trans   &kp UNDER  &kp PLUS  &kp LBRC  &kp RBRC  &kp PIPE   &trans                    &trans  &kp HOME  &kp LEFT   &kp DOWN   &kp UP_ARROW  &kp RIGHT  &kp TILDE
 &trans   &kp ESC    &kp LGUI  &kp LPAR  &kp RPAR  &kp TILDE  &trans  &trans    &trans  &trans  &kp END   &kp PG_UP  &kp PG_DN  &kp PSCRN     &kp GRAVE  &kp RET
 &trans   &trans     &trans    &mo 4     &trans               &mo 4   &trans    &trans  &trans            &trans     &trans     &trans        &trans     &trans
