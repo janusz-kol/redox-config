@@ -38,15 +38,14 @@
             hold-while-undecided;
         };
 
-        new_behavior: new_behavior {
+        hrm: hrm {
             compatible = "zmk,behavior-hold-tap";
-            label = "NEW_BEHAVIOR";
+            label = "HRM";
             #binding-cells = <2>;
             bindings = <&mo>, <&kp>;
 
             tapping-term-ms = <200>;
-            flavor = "hold-preferred";
-            hold-while-undecided;
+            flavor = "balanced";
         };
     };
 
