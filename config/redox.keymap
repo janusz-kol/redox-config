@@ -45,7 +45,7 @@
             bindings = <&kp>, <&kp>;
 
             tapping-term-ms = <150>;
-            flavor = "balanced";
+            flavor = "hold-preferred";
             hold-while-undecided;
         };
     };
