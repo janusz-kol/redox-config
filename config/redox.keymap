@@ -79,7 +79,7 @@
 &kp TAB       &kp Q            &kp W        &kp F         &kp P         &kp B   &kp LPAR                                             &kp RPAR   &kp J   &kp L          &kp U         &kp Y        &kp SEMICOLON  &kp MINUS
 &kp ESCAPE    &hrm LEFT_GUI A  &hrm RALT R  &hrm LCTRL S  &hrm RSHFT T  &kp G   &kp LBKT                                             &kp RBKT   &kp M   &hrm RSHFT N   &hrm RCTRL E  &hrm RALT I  &hrm RGUI O    &kp SQT
 &kp LSHFT     &kp Z            &kp X        &kp C         &kp D         &kp V   &kp PG_UP           &kp PG_DN    &kp HOME            &kp END    &kp K   &kp H          &kp COMMA     &kp DOT      &kp FSLH       &mt RSHFT RET
-&kp LCTRL     &kp LALT         &kp LGUI     &mo 4         &kp LGUI              &spc_lower 2 SPACE  &kp LCTRL    &spc_lower 5 ENTER  &kp SPACE          &kp RIGHT_ALT  &kp LEFT      &kp DOWN     &kp UP         &kp RIGHT
+&kp LCTRL     &kp LALT         &kp LGUI     &mo 4         &kp LGUI              &spc_lower 2 SPACE  &kp TAB      &spc_lower 5 ENTER  &kp SPACE          &kp RIGHT_ALT  &kp LEFT      &kp DOWN     &kp UP         &kp RIGHT
             >;
         };
 
