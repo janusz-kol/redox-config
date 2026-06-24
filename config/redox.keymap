@@ -101,11 +101,11 @@
         colemak_layer {
             display-name = "Colemak Layer";
             bindings = <
-&kp CAPSLOCK  &kp N1                &kp N2            &kp N3             &kp N4             &kp N5                                                                  &kp N6  &kp N7              &kp N8              &kp N9             &kp N0             &kp BSPC
-&kp TAB       &kp Q                 &kp W             &kp F              &kp P              &kp B   &kp LPAR                                             &kp RPAR   &kp J   &kp L               &kp U               &kp Y              &kp SEMICOLON      &kp MINUS
-&kp ESCAPE    &hrm_left LEFT_GUI A  &hrm_left RALT R  &hrm_left LCTRL S  &hrm_left RSHFT T  &kp G   &kp LBKT                                             &kp RBKT   &kp M   &hrm_right RSHFT N  &hrm_right RCTRL E  &hrm_right RALT I  &hrm_right RGUI O  &kp SQT
-&kp LSHFT     &kp Z                 &kp X             &kp C              &kp D              &kp V   &kp PG_UP           &kp PG_DN    &kp HOME            &kp END    &kp K   &kp H               &kp COMMA           &kp DOT            &kp FSLH           &mt RSHFT RET
-&kp LCTRL     &kp LALT              &kp LGUI          &mo 4              &kp LGUI                   &spc_lower 2 SPACE  &kp TAB      &spc_lower 5 ENTER  &kp SPACE          &kp RIGHT_ALT       &kp LEFT            &kp DOWN           &kp UP             &kp RIGHT
+&kp CAPSLOCK  &kp N1           &kp N2       &kp N3        &kp N4        &kp N5                                                                  &kp N6  &kp N7         &kp N8        &kp N9       &kp N0         &kp BSPC
+&kp TAB       &kp Q            &kp W        &kp F         &kp P         &kp B   &kp LPAR                                             &kp RPAR   &kp J   &kp L          &kp U         &kp Y        &kp SEMICOLON  &kp MINUS
+&kp ESCAPE    &hrm LEFT_GUI A  &hrm RALT R  &hrm LCTRL S  &hrm RSHFT T  &kp G   &kp LBKT                                             &kp RBKT   &kp M   &hrm RSHFT N   &hrm RCTRL E  &hrm RALT I  &hrm RGUI O    &kp SQT
+&kp LSHFT     &kp Z            &kp X        &kp C         &kp D         &kp V   &kp PG_UP           &kp PG_DN    &kp HOME            &kp END    &kp K   &kp H          &kp COMMA     &kp DOT      &kp FSLH       &mt RSHFT RET
+&kp LCTRL     &kp LALT         &kp LGUI     &mo 4         &kp LGUI              &spc_lower 2 SPACE  &kp TAB      &spc_lower 5 ENTER  &kp SPACE          &kp RIGHT_ALT  &kp LEFT      &kp DOWN     &kp UP         &kp RIGHT
             >;
         };
 
