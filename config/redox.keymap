@@ -88,7 +88,7 @@
 &kp TAB       &kp Q            &kp W        &kp F         &kp P         &kp B   &kp LPAR                                             &kp RPAR   &kp J   &kp L          &kp U         &kp Y        &kp SEMICOLON  &kp MINUS
 &kp ESCAPE    &hrm LEFT_GUI A  &hrm RALT R  &hrm LCTRL S  &hrm RSHFT T  &kp G   &kp LBKT                                             &kp RBKT   &kp M   &hrm RSHFT N   &hrm RCTRL E  &hrm RALT I  &hrm RGUI O    &kp SQT
 &kp LSHFT     &kp Z            &kp X        &kp C         &kp D         &kp V   &kp PG_UP           &kp PG_DN    &kp HOME            &kp END    &kp K   &kp H          &kp COMMA     &kp DOT      &kp FSLH       &mt RSHFT RET
-&kp LCTRL     &kp LALT         &kp LGUI     &mo 3         &kp LGUI              &spc_lower 1 SPACE  &kp TAB      &spc_lower 4 ENTER  &kp SPACE          &kp RIGHT_ALT  &kp LEFT      &kp DOWN     &kp UP         &kp RIGHT
+&kp LCTRL     &kp LALT         &kp LGUI     &mo 2         &kp LGUI              &spc_lower 3 SPACE  &kp TAB      &spc_lower 1 ENTER  &kp SPACE          &kp RIGHT_ALT  &kp LEFT      &kp DOWN     &kp UP         &kp RIGHT
             >;
         };
 
@@ -137,7 +137,7 @@
 &kp ESC  &kp EXCL   &kp AT    &kp HASH  &kp DLLR  &kp PRCNT  &trans                    &trans  &kp CARET  &kp AMPS   &kp ASTRK  &kp LPAR      &kp RPAR   &kp DEL
 &trans   &kp UNDER  &kp PLUS  &kp LBRC  &kp RBRC  &kp PIPE   &trans                    &trans  &kp HOME   &kp LEFT   &kp DOWN   &kp UP_ARROW  &kp RIGHT  &kp TILDE
 &trans   &kp ESC    &kp CAPS  &kp LPAR  &kp RPAR  &kp TILDE  &trans  &trans    &trans  &trans  &kp END    &kp PG_UP  &kp PG_DN  &kp PSCRN     &kp GRAVE  &kp RET
-&trans   &trans     &trans    &mo 3     &trans               &mo 3   &trans    &trans  &trans             &trans     &trans     &trans        &trans     &trans
+&trans   &trans     &trans    &trans    &trans               &mo 3   &trans    &trans  &trans             &trans     &trans     &trans        &trans     &trans
             >;
         };
     };
